@@ -10,11 +10,11 @@
 // @run-at       document-end
 // @noframes
 // @icon         https://jovialbadger.co.uk/beta_jb/assets/logo/letters_logo.svg
-// @updateURL    https://raw.githubusercontent.com/JovialBadger/Kindle-Book-List-Exporter/refs/heads/main/parser-exporter.js
-// @downloadURL  https://raw.githubusercontent.com/JovialBadger/Kindle-Book-List-Exporter/refs/heads/main/parser-exporter.js
+// @updateURL    https://jovialbadger.co.uk/Kindle-Book-List-Exporter/parser-exporter.js
+// @downloadURL  https://jovialbadger.co.uk/Kindle-Book-List-Exporter/parser-exporter.js
 // @supportURL   https://github.com/JovialBadger/Kindle-Book-List-Exporter/issues
-// @homepageURL  https://github.com/JovialBadger/Kindle-Book-List-Exporter
-// @homepage     https://github.com/JovialBadger/Kindle-Book-List-Exporter
+// @homepageURL  https://jovialbadger.co.uk/Kindle-Book-List-Exporter/
+// @homepage     https://jovialbadger.co.uk/Kindle-Book-List-Exporter/
 // @source       https://github.com/JovialBadger/Kindle-Book-List-Exporter
 // ==/UserScript==
 
