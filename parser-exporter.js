@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kindle Book List Parser & Exporter
 // @namespace    https://jovialbadger.co.uk/
-// @version      0.1.0
+// @version      0.1.1
 // @description  Parse Kindle book list pages, track read status (only fully read), detect gaps in export list, and export results to CSV.
 // @author       JovialBadger
 // @license      GNU GPL V3
