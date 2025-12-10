@@ -33,4 +33,4 @@ A userscript that automates parsing of your Kindle content list from Amazon’s 
 5. For large collections leave the browser page active but it shouldn't take too long.
 
 ## 📝 License
-GNU V3
+GNU GPL V3
