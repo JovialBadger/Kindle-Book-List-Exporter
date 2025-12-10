@@ -118,7 +118,7 @@ function getContentRange() {
 function getItemsPerPage() {
   const range = getContentRange();
   if (!range) return null;
-  return range.end - range.start + 1; // number of items shown on this page
+  return 25;//range.end - range.start + 1; // number of items shown on this page
 }
 
 function getPageItemDistribution() {
