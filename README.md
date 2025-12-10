@@ -27,7 +27,7 @@ A userscript that automates parsing of your Kindle content list from Amazon’s 
 
 ## 📦 Installation
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/) or your script manager of choice.
-2. Add the userscript from this repository.
+2. Add the userscript from this repository [here](https://jovialbadger.co.uk/Kindle-Book-List-Exporter/parser-exporter.js).
 3. Visit your [Amazon Kindle content list](https://www.amazon.co.uk/hz/mycd/digital-console/contentlist/booksAll/dateAsc/?pageNumber=1).
 4. The script will begin parsing automatically.
 5. For large collections leave the browser page active but it shouldn't take too long.
